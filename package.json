@@ -1,0 +1,13 @@
+{
+    "name": "chai",
+    "version": "0.1.0",
+    "description": "practice sinon",
+    "scripts": {
+        "test": "node ./main.js"
+    },
+    "author": "turunco",
+    "license": "ISC",
+    "devDependencies": {
+        "sinon": "^1.17.7"
+    }
+}
